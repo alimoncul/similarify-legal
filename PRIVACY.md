@@ -1,6 +1,6 @@
 # Privacy Policy for Similarify
 
-**Last Updated:** January 22, 2026
+**Last Updated:** January 24, 2026
 
 **Similarify** ("we", "us", "our") respects your privacy. This policy explains how we handle your data.
 
@@ -26,33 +26,22 @@ Stored in Google Cloud (Firebase) to sync your data across devices:
 
 - **Daily Operations:** How many items you grouped/deleted today.
 - **Ad Credits:** Balance earned from watching ads.
-- **Premium Status:** Whether you have purchased premium.
 
 ### C. Device Data (Ads)
 
-**Google AdMob** collects standard device data (Advertising ID, IP address) to show you relevant rewarded ads. Free users see ads; Premium users do not.
-
-### D. Purchase Data
-
-**RevenueCat** processes in-app purchases. They receive:
-
-- Anonymous user ID
-- Purchase receipts (verified with Google Play)
-- No personal photos or content
+**Google AdMob** collects standard device data (Advertising ID, IP address) to show you relevant rewarded ads.
 
 ## 3. Permissions
 
 - **Photos/Storage:** To scan your library and let you delete files.
-- **Internet:** For Sign-In, Cloud Sync, Ads, and Purchase verification.
+- **Internet:** For Sign-In, Cloud Sync, and Ads.
 
 ## 4. Third-Party Services
 
 We use the following services:
 
 - **Firebase** (Google): Authentication, database, analytics
-- **Google AdMob**: Advertising (free users only)
-- **RevenueCat**: In-app purchase management
-- **Google Play Billing**: Payment processing
+- **Google AdMob**: Advertising
 
 ## 5. Data Retention & Deletion
 
