@@ -1,6 +1,6 @@
 # Privacy Policy for Similarify
 
-**Last Updated:** January 24, 2026
+**Last Updated:** February 24, 2026
 
 **Similarify** ("we", "us", "our") respects your privacy. This policy explains how we handle your data.
 

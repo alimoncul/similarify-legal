@@ -1,6 +1,6 @@
 # Terms of Service for Similarify
 
-**Last Updated:** January 24, 2026
+**Last Updated:** February 24, 2026
 
 Please read these Terms of Service ("Terms") carefully before using the **Similarify** mobile application (the "App").
 
@@ -21,7 +21,7 @@ Similarify is a tool to help you group and organize similar photos on your devic
 
 ## 3. Usage Limits & Ads
 
-- Users have daily operation limits (20 operations per day).
+- Users have daily operation limits. Each delete action costs 1 operation, regardless of the number of photos involved.
 - You can earn extra operations by watching rewarded ads.
 - Ad credits have **no monetary value** and cannot be refunded or exchanged.
 - Ad availability depends on your region and network.
