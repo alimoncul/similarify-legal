@@ -21,9 +21,9 @@ Similarify is a tool to help you group and organize similar photos on your devic
 
 ## 3. Usage Limits & Ads
 
-- Users have daily operation limits. Each delete action costs 1 operation, regardless of the number of photos involved.
-- You can earn extra operations by watching rewarded ads.
-- Ad credits have **no monetary value** and cannot be refunded or exchanged.
+- Users have a daily balance. Each delete action uses 1 balance, regardless of the number of photos involved.
+- You can earn extra balance by watching rewarded ads.
+- Ad balance has **no monetary value** and cannot be refunded or exchanged.
 - Ad availability depends on your region and network.
 
 ## 4. Prohibited Use

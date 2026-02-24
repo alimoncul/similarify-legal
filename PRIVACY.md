@@ -24,8 +24,8 @@ We collect limited data to make the app work:
 
 Stored in Google Cloud (Firebase) to sync your data across devices:
 
-- **Daily Operations:** How many items you grouped/deleted today.
-- **Ad Credits:** Balance earned from watching ads.
+- **Daily Balance:** How many items you grouped/deleted today.
+- **Ad Balance:** Balance earned from watching ads.
 
 ### C. Device Data (Ads)
 
